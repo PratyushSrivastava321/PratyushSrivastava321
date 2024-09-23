@@ -17,9 +17,9 @@
 </p>
 <h2 align="left">📊 Stats : </h2>
 <p align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushSrivastava321&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" /></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=PratyushSrivastava321&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Streak" /></a>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushSrivastava321&theme=dracula&hide_border=false"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushSrivastava321&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="GitHub Streak" /></a>
 </p>
 <!--
 **PratyushSrivastava321/PratyushSrivastava321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
