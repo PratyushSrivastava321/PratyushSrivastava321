@@ -1,5 +1,5 @@
 <h1 align="center">Prats Here!</h1>
-<h3 align="center">An ardent Programmer</h3>
+<h3 align="center">An Ardent Programmer</h3>
 
 - 🐍 Loves to Code In `Python` and `C++`.
 - 🔭 I’m currently working in Accenture
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-[![PratyushSrivastava321's Stats]](https://github-readme-stats.vercel.app/api?username=PratyushSrivastava321&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PratyushSrivastava321&theme=dark)](https://git.io/streak-stats)
 [![PratyushSrivastava321's Streak]](https://github-readme-streak-stats.herokuapp.com/?user=PratyushSrivastava321&theme=dracula&hide_border=false)
 [![PratyushSrivastava321's Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushSrivastava321&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
