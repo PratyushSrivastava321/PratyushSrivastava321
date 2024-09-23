@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PratyushSrivastava321&show_icons=true&locale=en&layout=compact" alt="PratyushSrivastava321" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=PratyushSrivastava321&theme=dark)](https://git.io/streak-stats)
-[![PratyushSrivastava321's Streak]](https://github-readme-streak-stats.herokuapp.com/?user=PratyushSrivastava321&theme=dracula&hide_border=false)
-[![PratyushSrivastava321's Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushSrivastava321&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PratyushSrivastava321&show_icons=true&locale=en" alt="PratyushSrivastava321" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PratyushSrivastava321&" alt="PratyushSrivastava321" /></p>
+
+
 
   
 [![](https://visitcount.itsvg.in/api?id=PratyushSrivastava321&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
