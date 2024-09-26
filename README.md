@@ -5,7 +5,7 @@
 - 🔭 I’m currently working in Accenture
 - 🌱 I’m currently learning `MERN`
 - 📫 You can reach me [here](linktr.ee/pratyushsri)
-- 📈 Loves Solving problem related to `Data Structures and Algorithms and `Problem-Solving Skills`.
+- 📈 Loves Solving problem related to `Data Structures and Algorithms and Problem-Solving Skills`.
 <p>
 <h2 align="left">🚀Tech Stack : </h2>
 
